@@ -1,0 +1,12 @@
+.currentLine {
+  background-color: yellow;
+}
+.mouseOverLine {
+  background-color: lightblue;
+}
+.mouseLeaveLine {
+  background-color: #f5f5f5;
+}
+.highlightStroke {
+  stroke: yellow;
+}
